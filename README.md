@@ -72,7 +72,6 @@ The dataset contains road accident records with the following attributes:
 ## 🖼 Dashboard Preview
 ![Road Accident Dashboard](RoadAccident.png))
 
-> Replace `dashboard.png` with the actual image file name in this repository.
 
 ---
 
@@ -92,4 +91,4 @@ This dashboard provides a clear and interactive analysis of road accident data. 
 ## 👩‍💻 Author
 **Your Name**  
 Data Science Student | Aspiring Data Analyst  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/sreykhuoch04
