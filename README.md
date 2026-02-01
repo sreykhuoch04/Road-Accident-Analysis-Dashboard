@@ -70,7 +70,7 @@ The dataset contains road accident records with the following attributes:
 ---
 
 ## 🖼 Dashboard Preview
-![Road Accident Dashboard](dashboard.png)
+![Road Accident Dashboard]([dashboard.png](https://github.com/sreykhuoch04/Road-Accident-Analysis-Dashboard/blob/main/RoadAccident.png))
 
 > Replace `dashboard.png` with the actual image file name in this repository.
 
